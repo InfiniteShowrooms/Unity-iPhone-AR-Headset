@@ -10,7 +10,7 @@ Used this project as a base and pulled in a bunch of SketchFab Mavel Models.
 
 ## Apple AR Headsets are around the corner. Why bother making this?
 
-I want more Unity developers to experiment with low-cost AR headsets, so I did my 1st release on this open-source project (help wanted👋). 
+I want more Unity developers to experiment with low-cost AR headsets, so hence this open-source project (help wanted👋). 
 
 It’s really wonderful running around a MASSIVE outdoor park wearing an AR headset and playing a game WITHOUT:
 1. 1. Any infrared/full sunlight tracking issues

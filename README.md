@@ -31,29 +31,18 @@ But after testing with 120+ people a solid 90 of them have never, ever mentioned
 
 Instead of waiting for the next AR hardware, I wanted to help more Unity devs build AR headset experiences with the hardware they already have.💙🚀
 
-## Unity/iPhone Specs
+## Unity Project/iPhone Specs
 
-asdfasdf
-
-## Installation/Usage
-
-
-
-## Specs
-
-
-
-
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
+- Unity Editor 2020.3.2f1
+- Relevant Package Manager Items
+  - AR Foundation 4.2.0-pre.4
+  - AR Subsystems 4.2.0-pre.4
+  - ARkit XR Plugin 4.2.0-pre.4
+  - XR Interaction Toolkit 0.10.0-preview.7
+- Optional (But Recommended) Paid Assets
+  - AR Foundation Remote
+  - Playmaker
+- Hardware:
+  - iPhone with Apple A12 Bionic processor or higher (required for people occlusion/segmentation)
+    - iPhone 12 Pro (or higher) recommended for higher PPI display and LiDAR sensor
+  - Google Cardboard Headset with a hole for the camera (or this high-end one: https://mergeedu.com/headset )

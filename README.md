@@ -2,112 +2,46 @@
  Maintaining this cause’ I want more Unity devs to experiment with AR headsets. Uses ARkit + Unity ARfoundation to deliver stereoscopic pass-through AR with an iPhone + Google Cardboard headset (with a hole cut for the camera).
 
 
-## Contributing
+## Marvel Demo For Our 4yo Son
 
-Contributions are always welcome!
+Used this project as a base and pulled in a bunch of SketchFab Mavel Models.
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-
-## Demo
- 
 <img src="https://github.com/InfiniteShowrooms/Unity-iPhone-AR-Headset/blob/main/Marvel%20Nativity%20to%20EZgif%20D_%201.gif">
 
+## Apple AR Headsets are around the corner. Why bother making this?
 
-https://user-images.githubusercontent.com/97874276/178427240-963da044-c796-496b-89db-755b237a96d4.MOV
+I want more Unity developers to experiment with low-cost AR headsets, so I did my 1st release on this open-source project (help wanted👋). 
 
-[![download](https://user-images.githubusercontent.com/97874276/178429657-53f11b6e-24a0-4781-b227-29aa6c804b1d.png)](https://www.youtube.com/watch?v=6oFvqLfRnsU&t=58s)
+It’s really wonderful running around a MASSIVE outdoor park wearing an AR headset and playing a game WITHOUT:
+1. 1. Any infrared/full sunlight tracking issues
+2. Any “guardian” play area restrictions
+3. Fear of weather damage
+🏞️🏃 🎉
 
- 
-## Installation
+Most #Unity devs can’t afford a Hololens. 🕶️
 
-Install my-project with npm
+But then again, Hololens can’t do most of what I described above, either.🤷
 
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## License
+Is it low-resolution, only 60fps, 200ms latency, and no hand controllers? 
+Hell yes.😂
 
-[MIT](https://choosealicense.com/licenses/mit/)
+But after testing with 120+ people a solid 90 of them have never, ever mentioned ANY problems. 🎉🥳
 
+(In fact, most were having so much FUN playing games I put together they stopped asking tech questions.🐉🎮)
 
-## Roadmap
+Instead of waiting for the next AR hardware, I wanted to help more Unity devs build AR headset experiences with the hardware they already have.💙🚀
 
-- Additional browser support
+## Unity/iPhone Specs
 
-- Add more integrations
+asdfasdf
+
+## Installation/Usage
 
 
-## Run Locally
 
-Clone the project
+## Specs
 
-```bash
-  git clone https://link-to-project
-```
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## FAQ
@@ -119,4 +53,7 @@ Answer 1
 #### Question 2
 
 Answer 2
+## Documentation
+
+[Documentation](https://linktodocumentation)
 
